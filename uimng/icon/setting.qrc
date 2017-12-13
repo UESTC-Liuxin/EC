@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="set">
+    <file>setting.ico</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>纯色背景.bmp</file>
+    <file>背景.jpg</file>
+  </qresource>
+  <qresource prefix="radio">
+    <file>radio.ico</file>
+  </qresource>
+  <qresource prefix="music">
+    <file>music.ico</file>
+  </qresource>
+</RCC>
